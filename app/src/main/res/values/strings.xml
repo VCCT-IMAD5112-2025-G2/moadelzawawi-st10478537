@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IMAD5112 Assignment 1</string>
+    <string name="reset">Reset</string>
+    <string name="suggest_meal">Suggest Meal</string>
+    <string name="enter_time_of_day_e_g_morning_afternoon">Enter time of day (e.g., Morning, Afternoon)</string>
+</resources>
